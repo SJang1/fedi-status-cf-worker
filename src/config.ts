@@ -136,7 +136,7 @@ export const config: Config = {
     },
     {
       id: 'catswords-social',
-      url: 'https://catswords.social/',
+      url: 'https://www.catswords.social/',
       name: '캐츠워즈 콜로세움',
       followRedirect: false,
     },
