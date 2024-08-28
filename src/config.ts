@@ -2,8 +2,8 @@ import type { Config } from './types'
 
 export const config: Config = {
   settings: {
-    title: 'Status Page Pro',
-    url: 'https://cf-worker-status-page-pro-production.yunsii.workers.dev',
+    title: '페디버스 상태',
+    url: 'https://status.fediverses.kr',
     displayDays: 90,
     collectResponseTimes: true,
   },
