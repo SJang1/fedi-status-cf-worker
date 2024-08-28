@@ -10,7 +10,7 @@ export const config: Config = {
   monitors: [
     {
       id: 'bsky-social',
-      url: 'https://bsky.social/',
+      url: 'https://bsky.app/',
       description: 'Bluesky (SocialApp XRPC)',
       followRedirect: false,
     },
@@ -207,5 +207,5 @@ export const config: Config = {
       followRedirect: false,
     },
   ],
-  monitorsCsvUrl: 'https://docs.google.com',
+  // monitorsCsvUrl: 'https://docs.google.com',
 }
