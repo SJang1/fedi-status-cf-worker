@@ -1,5 +1,5 @@
-account_id = "0db3c9ec1d741afb9a63eab399c77c3b"
-name = "cf-worker-status-page-pro"
+account_id = "d10780b663ebaff9391d2c32c3cc8dc9"
+name = "fedi-status-cf-worker"
 main = "./src/worker/index.ts"
 compatibility_flags = [ "streams_enable_constructors" ]
 compatibility_date = "2021-09-29"
