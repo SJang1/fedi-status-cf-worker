@@ -18,4 +18,4 @@ kv_namespaces = [ { binding = "KV_STORE", id = "af37617e377142febc24cd6f986a5203
 
 [env.production.triggers]
 # https://crontab.guru/#*/2_*_*_*_*
-crons = [ "*/2 * * * *" ]
+crons = [ "* * * * *" ]
